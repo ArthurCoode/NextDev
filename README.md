@@ -1,73 +1,74 @@
-# Welcome to your Lovable project
+# 🚀 NextDev
 
-## Project info
+**NextDev** is a startup focused on **building the future through technology**.  
+Our mission is to design and develop modern, scalable, and high-performance web solutions that help businesses grow and innovate.
 
-**URL**: https://lovable.dev/projects/d1ff9a4d-2345-4fa1-b184-4069a474637d
+This project represents the official **NextDev website**, built with **React.js**, showcasing our vision, services, and digital presence.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌐 Live Website
+🔗 https://nextdev.company
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d1ff9a4d-2345-4fa1-b184-4069a474637d) and start prompting.
+## 🛠️ Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+- **React.js** – Component-based architecture
+- **JavaScript (ES6+)** – Modern syntax and features
+- **HTML5** – Semantic structure
+- **CSS3** – Responsive and modern styling
+- **Git & GitHub** – Version control
 
-**Use your preferred IDE**
+---
+✨ Recursos
+Design moderno e limpo para startups
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Layout totalmente responsivo
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Alto desempenho e construção otimizada
 
-Follow these steps:
+Arquitetura de componentes escalável
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Identidade visual clara e profissional
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+🚀 Primeiros passos
+1️⃣ Clone o repositório
+bash
 
-# Step 3: Install the necessary dependencies.
-npm i
+Copiar código
+git clone https://github.com/ArthurCoode/NextDev.git
+2️⃣ Instalar dependências
+bash
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Copiar código
+npm install
+3️⃣ Execute o projeto
+bash
+
+Copiar código
 npm run dev
-```
+O aplicativo estará disponível em:
 
-**Edit a file directly in GitHub**
+texto
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Copiar código
+http://localhost:5173
+(porta Vite padrão)
 
-**Use GitHub Codespaces**
+📈 Roteiro
+melhorias de SEO
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Integração de formulário de contato
 
-## What technologies are used for this project?
+Animações e microinterações
 
-This project is built with:
+Otimizações de desempenho
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Expansão para plataforma web completa
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/d1ff9a4d-2345-4fa1-b184-4069a474637d) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+👨‍💻 Autor
+Arthur Marques -
+Desenvolvedor Full Stack
+🌐 Site: https://nextdev.company
+💼 GitHub: ArthurCoode
